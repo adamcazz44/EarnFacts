@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="EarnFacts">
+  <rect width="32" height="32" rx="6" fill="#F5F7F3"/>
+  <rect x="6"  y="8"  width="3.4" height="18" rx="1" fill="#18211C"/>
+  <rect x="11" y="13" width="3.4" height="13" rx="1" fill="#18211C"/>
+  <rect x="16" y="17" width="3.4" height="9"  rx="1" fill="#18211C"/>
+  <rect x="21" y="20" width="3.4" height="6"  rx="1" fill="#18211C"/>
+  <rect x="26" y="13" width="3.4" height="13" rx="1" fill="#1C6B4C"/>
+</svg>
